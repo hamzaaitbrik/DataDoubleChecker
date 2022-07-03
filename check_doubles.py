@@ -25,7 +25,7 @@ def write2txtfile(__Data):
     #print('This works!')
     with open('uData.txt', 'w') as uData:
         for number in __Data:
-            uData.write(number)
+            uData.write(str(number))
             uData.write('\n')
 
 
