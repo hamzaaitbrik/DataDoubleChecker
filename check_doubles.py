@@ -28,6 +28,7 @@ def write2txtfile(__Data):
             uData.write(number)
             uData.write('\n')
 
+
 def main():
     txt2list()
     __Data = removedoubles(_Data)
