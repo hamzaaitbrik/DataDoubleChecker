@@ -1,5 +1,5 @@
 print('----------------------------------------------- DataDoubleChecker')
-print('----------------------------------------------- Discord: Ozym1ndias#3112\n')
+print('----------------------------------------------- Discord: OzymandiasTheGreat#3112\n')
 
 _Data = []
 __Data = []
